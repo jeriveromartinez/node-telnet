@@ -1,27 +1,24 @@
 {
-  "name": "node-openvpn",
-  "version": "0.1.1",
-  "description": "Communicate with a openvpn instance via telnet",
+  "name": "node-telnet",
+  "version": "1.0.0",
+  "description": "Communicate via telnet",
   "author": {
-    "name": "Luigi Poole",
-    "email": "luigipoole@outlook.com"
+    "name": "Julio Rivero",
+    "email": "jeriveromartinez@gmail.com"
   },
   "files": [
     "lib/**/*",
     "index.js"
   ],
   "keywords": [
-    "node openvpn",
-    "node vpn",
-    "openvpn client",
-    "openvpn",
+    "node",
+    "telnet client",
     "client",
-    "vpn",
     "telnet"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/luigiplr/node-openvpn.git"
+    "url": "https://github.com/jeriveromartinez/node-telnet.git"
   },
   "main": "index.js",
   "license": "GPL-3.0",

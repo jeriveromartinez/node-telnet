@@ -1,1 +1,1 @@
-module.exports = require('./lib/openvpn.js');
+module.exports = require('./lib/telnet.js');
