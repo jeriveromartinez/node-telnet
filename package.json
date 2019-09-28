@@ -1,6 +1,6 @@
 {
   "name": "node-telnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Communicate via telnet",
   "author": {
     "name": "Julio Rivero",
